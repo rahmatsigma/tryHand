@@ -25,7 +25,6 @@ gesture_names = {
     5: "Hallo 🖐️"
 }
 
-# BARU: Dictionary untuk file suara
 gesture_sounds = {
     0: "sounds/fist.mp3",
     1: "sounds/one.mp3",
